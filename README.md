@@ -1,6 +1,6 @@
 # Kaggle Competitions and Machine Learning Models
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/your-username/your-repo/stargazers/)
+
 
 Welcome to my GitHub repository where I tackle Kaggle competitions and develop state-of-the-art machine learning models! 🚀
 
@@ -26,8 +26,8 @@ To explore my work, simply navigate through the folders and files in this reposi
 I welcome contributions, suggestions, and feedback! If you find a bug, have an enhancement idea, or want to collaborate on a project, please open an issue or submit a pull request. Let's learn and grow together!
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Kaggle: [Your Kaggle Profile](https://www.kaggle.com/your-profile)
-- Website: [Your Website](https://www.your-website.com)
+- LinkedIn: https://www.linkedin.com/in/erol-kaan-bostan-152a56198/
+- Kaggle: https://www.kaggle.com/erolkaanbostan
+
 
 Let's dive into the world of Kaggle competitions and machine learning models together! 🌟
